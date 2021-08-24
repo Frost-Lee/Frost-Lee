@@ -1,3 +1,3 @@
 ### Hi! It's Tsan-Chen 👋
 
-I'm an undergraduate student at Zhejiang University, major in Computer Science and Technology 💻. I love Overwatch (Genji, especially), and I'm interning at Apple 🍎 IS&T.
+I'm a graduate student at the Information Networking Institute of Carnegie Mellon University. I love Overwatch (Genji, especially), and would like to work on cloud infrastructure systems in the future.
